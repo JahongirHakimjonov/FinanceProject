@@ -1,0 +1,20 @@
+[
+   {
+      "sender_id": "dcff70db-05ba-49ef-8e6b-ce6d580560c7",
+      "receiver_id": "df83f577-148a-4f14-8035-6d0abe4f9738",
+      "amount": 500.0,
+      "date": "2.11.2023"
+   },
+   {
+      "sender_id": "dcff70db-05ba-49ef-8e6b-ce6d580560c7",
+      "receiver_id": "df83f577-148a-4f14-8035-6d0abe4f9738",
+      "amount": 5000.0,
+      "date": "3.11.2023"
+   },
+   {
+      "sender_id": "765bad03-0a22-4c62-a3ef-6596725f6931",
+      "receiver_id": "dcff70db-05ba-49ef-8e6b-ce6d580560c7",
+      "amount": 5000.0,
+      "date": "3.11.2023"
+   }
+]

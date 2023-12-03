@@ -1,0 +1,26 @@
+[
+   {
+      "username": "ja_khan_gir",
+      "first_name": "Jahongir",
+      "last_name": "Hakimjonov",
+      "password": "$2b$12$VG5gu80WfmdBev.uXuAK8OaUSKRFybZ1SDoICwsY55PP.VK0qf6V2",
+      "balance": 11500.0,
+      "id": "dcff70db-05ba-49ef-8e6b-ce6d580560c7"
+   },
+   {
+      "username": "javlon",
+      "first_name": "Javlon",
+      "last_name": "Asadullayev",
+      "password": "$2b$12$XwzJQGGzE9UP5En9IkIsj.x.zdVU1rrdizK5jHrhuKqlW9xW6oNjC",
+      "balance": 8900.0,
+      "id": "df83f577-148a-4f14-8035-6d0abe4f9738"
+   },
+   {
+      "username": "ulugbek.ng",
+      "first_name": "Ulugbek",
+      "last_name": "Nagmatov",
+      "password": "$2b$12$uaO0s.wVkZTxkOrlibgeDOHMl4d8qoBDRWTIe.MqQQ1fRLa6srR3.",
+      "balance": 15000.0,
+      "id": "765bad03-0a22-4c62-a3ef-6596725f6931"
+   }
+]
